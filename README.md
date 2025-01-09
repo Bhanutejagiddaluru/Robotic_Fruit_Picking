@@ -46,12 +46,14 @@ The architecture consists of:
 ---
 
 ## Goals
+![Goal of the Project](Goals_of_the_project.jpg)
+*Figure: Block Diagram for Goal 1 - Fruit Identification.*
 
 ### Goal 1: Fruit Identification
 - Web scraping of fruit images.
 - Classify fruits using a trained neural network.
 
-![Block Diagram Goal 1](Goal1.jpg)
+![Block Diagram Goal 1](Block_Diagram.jpg)
 *Figure: Block Diagram for Goal 1 - Fruit Identification.*
 
 ### Goal 2: Deploying the Model to Hardware
