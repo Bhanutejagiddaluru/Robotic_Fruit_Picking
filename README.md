@@ -88,7 +88,7 @@ The fruit classification model is based on AlexNet. The model is trained on a da
   *Figure: Confusion matrix of the AlexNet model showing accurate fruit classification.*
 
 - **Training Progress**:
-  ![Training Progress](Training_Progress.jpg)
+  ![Training Progress](ROC_graphs_results.jpg)
   *Figure: Training accuracy and loss progress over epochs.*
 
 ### Model Performance:
