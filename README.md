@@ -5,7 +5,6 @@ Welcome to the **Robotic Fruit Picking** repository! This project focuses on usi
 ---
 
 ## Project Overview
-![Project Overview](Project-overview.jpg)
 
 - **Objective**: Identify ripened fruits using deep learning models and deploy a robotic arm to pick them.
 - **Tech Stack**: MATLAB, AlexNet, Raspberry Pi, 3D printing, Deep Learning, Python, PushBullet API.
@@ -35,7 +34,7 @@ This project explores the use of a deep neural network model (AlexNet) for ident
 ---
 
 ## Architecture
-![Architecture Flowchart](Goal1_results.jpg)
+![Architecture Flowchart](Block_Diagram.jpg)
 *Figure: Overview of the system architecture for fruit identification.*
 
 The architecture consists of:
