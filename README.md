@@ -34,9 +34,6 @@ This project explores the use of a deep neural network model (AlexNet) for ident
 ---
 
 ## Architecture
-![Architecture Flowchart](Block_Diagram.jpg)
-*Figure: Overview of the system architecture for fruit identification.*
-
 The architecture consists of:
 1. **Web Scraping**: Collect fruit images categorized as ripe, unripe, or rotten.
 2. **Deep Learning Model**: Trains a neural network (AlexNet) on fruit images.
