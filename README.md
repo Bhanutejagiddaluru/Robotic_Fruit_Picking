@@ -2,6 +2,8 @@
 
 Welcome to the **Robotic Fruit Picking** repository! This project focuses on using Deep learning and machine learning models, integrated with a robotic system, to identify ripened fruits and automate the fruit-picking process with real-time notification and hardware deployment.
 
+<img width="1689" height="553" alt="image" src="https://github.com/user-attachments/assets/fdd8c990-b1d5-4541-bfd5-ff6ce28eb6c4" />
+
 Publication link: https://jespublication.com/upload/2022-V13I60119.pdf
 
 Project link: https://www.youtube.com/watch?si=POYIxZmwRn4Zl1NK&v=R4vdIAV3kuA&feature=youtu.be
