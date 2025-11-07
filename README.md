@@ -1,7 +1,8 @@
 # 🚀 Robotic Fruit Picking
 
-Welcome to the **Robotic Fruit Picking** repository! This project focuses on using machine learning models, integrated with a robotic system, to identify ripened fruits and automate the fruit-picking process with real-time notification and hardware deployment.
+Welcome to the **Robotic Fruit Picking** repository! This project focuses on using Deep learning and machine learning models, integrated with a robotic system, to identify ripened fruits and automate the fruit-picking process with real-time notification and hardware deployment.
 
+link: https://jespublication.com/upload/2022-V13I60119.pdf
 ---
 
 ## Project Overview
